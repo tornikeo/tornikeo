@@ -15,7 +15,7 @@ I am Tornike Onoprishvili, a Data Scientist who is interested in Tensorflow, Doc
 ## 🌱 I’m currently learning
 
 - [C++](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113) 
-- [Data Sceince from scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
+- [Data Science from scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
 
 ## 👯 I’m looking to collaborate on
 
