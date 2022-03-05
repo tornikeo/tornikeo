@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Tornike Onoprishvili, a Data Scientist who is working with PyTorch, Tensorflow, Docker and Flask. I prefer to use automation wherever possible and I think that everything uninteresting can and should be automated. I am an active learner and frequently share my learning experience using Youtube, Kaggle and Medium Blogs. I like to build small, specialized applications and document everything in blogs or videos.  
+I am [Tornike Onoprishvili](http://tornikeo.github.io/), a Data Scientist who is working with PyTorch, Tensorflow, Docker and Flask. I prefer to use automation wherever possible and I think that everything uninteresting can and should be automated. I am an active learner and frequently share my learning experience using Youtube, Kaggle and Medium Blogs. I like to build small, specialized applications and document everything in blogs or videos.  
 
 
 ## 🎓 Expertise
