@@ -25,6 +25,7 @@ I am [Tornike Onoprishvili](http://tornikeo.github.io/), a Data Scientist who is
 
 ## 📫 How to reach me
 
+- Personal Web-site:  http://tornikeo.github.io/
 - Linkedin: [https://www.linkedin.com/in/tornike-onoprishvili](https://www.linkedin.com/in/tornike-onoprishvili-928801b6)
 - GitHub: https://github.com/tornikeo
 - Gmail: [tonop15@freeuni.edu.ge](mailto:tonop15@freeuni.edu.ge)
