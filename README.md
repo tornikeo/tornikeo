@@ -22,7 +22,7 @@ I am a full-stack AI specialist. Teaching, researching, deploying - you name it.
 
 ## 📫 How to reach me
 
-- Personal Web-site:  http://tornikeo.github.io/
+- Personal Website:  http://tornikeo.github.io/
 - Linkedin: [https://www.linkedin.com/in/tornike-onoprishvili](https://www.linkedin.com/in/tornike-onoprishvili-928801b6)
 - GitHub: https://github.com/tornikeo
 
