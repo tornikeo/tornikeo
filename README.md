@@ -16,7 +16,7 @@ I am a full-stack AI specialist. Teaching, researching, deploying - you name it.
 - TensorflowJS
 - Node.js (just basics to get TFJS working)
 
-## 👯 I’m looking to collaborate on
+## 👯 Looking to collaborate on
 
 - AI-based opensource projects (including libraries)
 
