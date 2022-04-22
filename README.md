@@ -9,7 +9,7 @@ I am a full-stack AI specialist. Teaching, researching, deploying - you name it.
 - ML Libraries: Scikit Learn, XGBoost
 - Web Frameworks: Flask
 - Dev tools: Git, Bash, Git Actions, Docker, GCP, ...
-- Mathematics, Statistics
+- Mathematics, Statistics 
 
 ## 🌱 I’m currently learning
 
