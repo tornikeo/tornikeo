@@ -8,7 +8,7 @@ I am a full-stack AI specialist. Teaching, researching, deploying - you name it.
 - ML Frameworks: PyTorch, Tensorflow 2
 - ML Libraries: Scikit Learn, XGBoost
 - Web Frameworks: Flask
-- Dev tools: Git, Bash, Git Actions, Docker, GCP, ...
+- Dev tools: Git, Bash, Git Actions, Docker, Kubeflow, GCP, ...
 - Mathematics, Statistics 
 
 ## 🌱 I’m currently learning
