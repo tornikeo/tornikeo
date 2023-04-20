@@ -6,19 +6,16 @@ I am a full-stack AI specialist. Teaching, researching, deploying - you name it.
 ## 🎓 Expertise
 
 - ML Frameworks: PyTorch, Tensorflow 2
-- ML Libraries: Scikit Learn, XGBoost
-- Web Frameworks: Flask
-- Dev tools: Git, Bash, Git Actions, Docker, Kubeflow, GCP, ...
-- Mathematics, Statistics 
-
-## 🌱 I’m currently learning
-
-- TensorflowJS
-- Node.js (just basics to get TFJS working)
+- CV Libraries: Scikit-image
+- Stats: Scikit Learn, XGBoost
+- Web: FastAPI, Streamlit, Gradio
+- Dev tools: Docker-Compose, Git, Bash,  GCP
+- Linear Algebra, Statistics, Calculus
 
 ## 👯 Looking to collaborate on
 
 - AI-based opensource projects (including libraries)
+- Cool generative AI projects (image and text)
 
 ## 📫 How to reach me
 
