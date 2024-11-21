@@ -1,24 +1,23 @@
-## Hi there 👋
+# Hi there.
 
-I am a full-stack AI specialist. Teaching, researching, deploying - you name it. I can plan, implement *and* deploy AI-backed apps for general use.
+I'm know some things. 
 
+I know modern AI inside-and-out. From deriving neural network gradients by hand, all the way to pretraining and deployment of custom large transformer models on specialized hardware, in the cloud.
 
-## 🎓 Expertise
+I also happen to know some chemistry and have taken interest in metabolomics. So far, only [one](https://www.biorxiv.org/content/10.1101/2024.07.24.605006v1) paper under the belt - I'm sure this will improve. I'm also really interested in computational quantum chemistry. I don't know why - simulating a slice of the world just makes me feel good.
 
-- ML Frameworks: PyTorch, Tensorflow 2
-- CV Libraries: Scikit-image
-- Stats: Scikit Learn, XGBoost
-- Web: FastAPI, Streamlit, Gradio
-- Dev tools: Docker-Compose, Git, Bash,  GCP
-- Linear Algebra, Statistics, Calculus
+# My work toolkit (as of 2024)
+## Tools
+- Python scientific libraries
+- PyTorch ([NOT](https://github.com/tensorflow/tensorflow/issues/53549) tensorflow)
+- CUDA [in](https://docs.nvidia.com/cuda/cuda-c-programming-guide/) [all](https://github.com/cupy/cupy) [flavors](https://github.com/numba/numba)
+- FastAPI and Svelte
+- C/C++ only when I have to.
 
-## 👯 Looking to collaborate on
+## Environments
+- Linux, Git, Docker
+- Cloud: google and aws
 
-- AI-based opensource projects (including libraries)
-- Cool generative AI projects (image and text)
-
-## 📫 How to reach me
-
-- Personal Website:  http://tornikeo.github.io/
+# Reach me at
+- Personal Website:  [https://tornikeo.github.io/](https://tornikeo.github.io/)
 - Linkedin: [https://www.linkedin.com/in/tornike-onoprishvili](https://www.linkedin.com/in/tornike-onoprishvili-928801b6)
-- GitHub: https://github.com/tornikeo
