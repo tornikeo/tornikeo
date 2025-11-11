@@ -1,6 +1,6 @@
 # About
 
-I'm Tornike Onoprishvili (aka `tornikeo`). I specialize in AI, GPUs, and the Cloud. If you have a cool research idea or project please reach out by email at `contact [AT] tornikeo.com`. I'm always happy to help out in Tech.
+I'm Tornike Onoprishvili (aka `tornikeo`). I specialize in AI, GPUs, and the Cloud. If you have a cool research idea or project please reach out by email at `tornikeo@tornikeo.com`. I'm always happy to help out in Tech.
 
 ## Projects
 - I built and maintain the fastest exact [Cosine Similarity calculation tool](https://github.com/PangeAI/simms). It's a simple, unoptimized CUDA kernel that calculates mass spectrum [Cosine Similarity](https://matchms.readthedocs.io/en/latest/api/matchms.similarity.CosineGreedy.html) and [Modified Cosine Similarity](https://matchms.readthedocs.io/en/latest/api/matchms.similarity.ModifiedCosine.html) scores. The 1700x speedup comes from the typically massive memory bandwidth of GPUs. No shared memory or highly optimized memory access is used. I hope to optimize this further at some point.
